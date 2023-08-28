@@ -31,8 +31,14 @@ Join me in this exploration of the fascinating world of flower classification.
 
 **Task 4: Sales Prediction using Python**
 
-Predicting sales is crucial for businesses to plan effectively. This project focuses on developing a sales prediction model using Python. Exploratory data analysis, feature selection, and various regression algorithms are employed. The project covers model evaluation and improvement, providing insights into predicting future sales accurately.
+Predicting sales is crucial for businesses to plan effectively. 
+This project focuses on developing a sales prediction model using Python. 
+Exploratory data analysis, feature selection, and various regression algorithms are employed. 
+The project covers model evaluation and improvement, providing insights into predicting future sales accurately.
 
 **Task 5: Credit Card Fraud Detection**
 
-Fraudulent credit card transactions pose significant risks to financial systems. This project involves building a machine learning model to detect fraudulent transactions using Python. The dataset is preprocessed, imbalanced class issues are addressed, and classification models are trained. Hyperparameter tuning and performance evaluation help ensure accurate fraud detection while minimizing false positives.
+Fraudulent credit card transactions pose significant risks to financial systems. 
+This project involves building a machine learning model to detect fraudulent transactions using Python. 
+The dataset is preprocessed, imbalanced class issues are addressed, and classification models are trained. 
+Hyperparameter tuning and performance evaluation help ensure accurate fraud detection while minimizing false positives.
